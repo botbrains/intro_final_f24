@@ -9,9 +9,9 @@
 
 You are tasked with updating and syncing the repository with updated information. (factual or fictional).
 
-- [ ] Fork the repository.
-- [ ] Clone the repository to your computer.
-- [ ] Open the files in your code or text editor.
+- [✅] Fork the repository.
+- [✅] Clone the repository to your computer.
+- [✅] Open the files in your code or text editor.
 - [ ] Replace the placeholder image with another photo.
 - [ ] Change button color to another color.
 - [ ] Update name and bio text.
