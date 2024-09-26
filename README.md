@@ -15,10 +15,10 @@ You are tasked with updating and syncing the repository with updated information
 - [✅] Replace the placeholder image with another photo.
 - [✅] Change button color to another color.
 - [✅] Update name and bio text.
-- [ ] Add JavaScript alert box.
-- [ ] Modify JavaScript.
-- [ ] Sync changes to GitHub.
-- [ ] Turn in assignment.
+- [✅] Add JavaScript alert box.
+- [✅] Modify JavaScript.
+- [✅] Sync changes to GitHub.
+- [✅] Turn in assignment.
 
 ## Instructions for Customizing Your Repo and Syncing to GitHub
 
